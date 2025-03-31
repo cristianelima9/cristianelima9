@@ -1,0 +1,61 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMK2/I09MBWYi42U8qt9bOK",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/cristianelima9/cristianelima9/blob/main/An%C3%A1lise%20de%20Dados\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Descrição da Análise\n",
+        "\n",
+        "Uma empresa solicitou a uma consultoria, um diagnóstico de seu Serviço de Suporte a Clientes. Com base no diagnóstico a partir da análise de dados, a empresa pretende entender quais são as oportunidades de melhorias dos produtos e serviços ofertados."
+      ],
+      "metadata": {
+        "id": "k3cZ_TbCuGwK"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Descrição das Variáveis\n",
+        "\n",
+        "\n",
+        "1. Tempo Médio de Atendimento (TMA): Avalia o tempo médio necessário para resolver as questões ou problemas dos clientes. Um TMA mais baixo pode indicar boa eficiência na resolução dos problemas.\n",
+        "\n",
+        "2. Taxa de Resolução do Primeiro Contato (First Call Resolution - FCR): Refere-se à porcentagem de problemas ou questões resolvidas na primeira interação com o cliente, sem necessidade de follow-ups ou contatos adicionais. Uma alta taxa de FCR é geralmente um indicador de alta eficiência e satisfação do cliente.\n",
+        "\n",
+        "3. Satisfação do Cliente (CSAT): Geralmente medido por pesquisas pós-atendimento, onde os clientes avaliam sua satisfação com o atendimento recebido. Os resultados poder ser usados para medir a qualidade do serviço e identificar áreas para melhoria.\n",
+        "\n",
+        "4. Tempo Médio de Espera: O tempo que os clientes passam na fila antes de serem atendidos. Uma métrica importante para avaliar a eficiência do serviço de atendimento, especialmente em canais telefônicos ou de chat.\n",
+        "\n",
+        "5. Taxa de Conversão de Atendimento: Em contatos específicos, como suporte técnico ou vendas, medir a porcentagem de contatos de atendimento que resultam em vendas ou resolução de problemas técnicos, pode ser crucial para avaliar a eficácia do atendimento."
+      ],
+      "metadata": {
+        "id": "LJB81CPBuUm_"
+      }
+    }
+  ]
+}
